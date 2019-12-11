@@ -4,7 +4,8 @@ body{
     background-image: url("https://img.freepik.com/vector-gratis/elegante-fondo-blanco-lineas-brillantes_1017-17580.jpg?size=626&ext=jpg");
     font-family: 'Slabo 27px', serif;
     margin:0px;
-
+    padding: 5px;
+    
 }
 div#a ul{
     list-style: decimal-leading-zero;
